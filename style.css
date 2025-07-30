@@ -1,0 +1,27 @@
+.h1 {
+    text-align: center;
+}
+.h2 {
+     text-align: center;
+    background-color: black;
+    color: white;
+}
+.last {
+    background-color: rgb(3, 230, 3);
+    color: white;
+    border-radius: 10px;
+    width: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+}
+.h3 {
+    border-collapse: collapse;
+    width: 100%;
+}
